@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LindsaySenia
 - 👀 I’m interested in ... learning!
-- 🌱 I’m currently learning ... intro to programming
-- 💞️ I’m looking to collaborate on ... my classwork
+- 🌱 I’m currently learning ... Angular
+- 💞️ I’m looking to collaborate on ... anything honestly
 - 📫 How to reach me ... Lmzsenia@gmail.com
 
 <!---
