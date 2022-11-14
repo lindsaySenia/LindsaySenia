@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindsaySenia
-- 👀 I’m interested in ... learning!
-- 🌱 I’m currently learning ... Angular
+- 👀 I’m interested in ... finding my niche
+- 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... anything honestly
 - 📫 How to reach me ... Lmzsenia@gmail.com
 
